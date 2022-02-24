@@ -1,0 +1,1 @@
+{"name":"p1","version":"1.0.0","description":"Express","main":"mi aplicacion.js","scripts":{"startDev":"nodemon app.js","telem":"standard"},"dependencies":{"dotenv":"^16.0.0","nodemon":"^2.0.15","standard":"^16.0.4"}}
